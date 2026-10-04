@@ -1,0 +1,38 @@
+---
+title: "IC8-2: CITI Certification"
+subtitle: "Proving I can be trusted with human subjects data"
+author: "Ruben"
+date: today
+date-format: "dddd, MMMM D, YYYY"
+format:
+  html:
+    theme: minty
+    toc: true
+    toc-title: "🗺️ Quest Map"
+    toc-location: left
+    number-sections: true
+    code-fold: true
+    code-tools: true
+    smooth-scroll: true
+    embed-resources: true
+    highlight-style: github
+    fontsize: 1.05em
+    mainfont: "Poppins"
+    page-layout: full
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## CITI
+
+Collaborative Institutional Training Initiative (CITI).
+
+- Ensures ethical standards for research
+
+- Maintains complainance over certain amount of years that line up with state and federal laws.
+
+- Standardize training across different disciplines, with peer-review so that independent institutions create their own ethics
+
+![Garcia, Ruben: Certificate of Completion](citiCompletionCertificate_16140981_80099866.pdf)
