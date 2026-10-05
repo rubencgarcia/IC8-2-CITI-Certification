@@ -42,4 +42,4 @@ Collaborative Institutional Training Initiative (CITI).
 ## Links
 
 - **GitHub Repository:** <https://github.com/rubencgarcia/IC8-2-CITI-Certification>
-- **Published HTML (GitHub Pages):** <https://rubencgarcia.github.io/IC8-2-CITI-Certification/YourFileName.html>
+- **Published HTML (GitHub Pages):** <https://rubencgarcia.github.io/IC8-2-CITI-Certification/FILENAME.html>
